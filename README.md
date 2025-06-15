@@ -21,8 +21,6 @@ There are 6 tables available for this case study:
 
 Each table contains data related to customer orders, runner assignments, and the ingredients used.
 
-You can find the table creation and data insertion SQL scripts in the [`data/`](./data/) folder.
-
 ## 🧠 Case Study Questions
 
 The case study is divided into the following sections:
